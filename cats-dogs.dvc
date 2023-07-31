@@ -1,0 +1,14 @@
+md5: 49cf3f0ce83e2378a4448cb32ce5ccac
+frozen: true
+deps:
+- path: cats-dogs
+  repo:
+    url: git@github.com:dberenbaum/dataset.git
+    rev_lock: fabbc0aa57eddbe65a412b5f081b519dd70ae098
+    rev: main
+outs:
+- md5: 22e3f61e52c0ba45334d973244efc155.dir
+  size: 64128504
+  nfiles: 2800
+  hash: md5
+  path: cats-dogs
